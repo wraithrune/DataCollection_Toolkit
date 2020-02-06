@@ -2,4 +2,4 @@
 
 Web Scrapper for Google Keyword Search
 
-vSearchString = <Input Keyword Search>
+Replace text in vSearchString for Keyword Search
